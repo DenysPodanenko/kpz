@@ -21,6 +21,7 @@ public class Main {
             book.setPublishingYear(new Date(day,month,year));
             book.setPageCount(Integer.parseInt(in.nextLine()));
             book.setCost(Float.parseFloat(in.nextLine()));
+            books[i] = book;
         }
 
         /*books[0] = new Book(1,"book1","A","house1",new Date(10,10,2000),10,49.99f);
