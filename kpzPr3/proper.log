@@ -1,0 +1,5 @@
+2018-12-02 19:39:48.971 [main] ERROR Main - UnsignedException: number cant be negative
+2018-12-02 19:42:04.607 [main] ERROR Main - UnsignedException: number cant be negative
+2018-12-02 19:42:32.836 [main] ERROR Main - DateException: incorrect date
+2018-12-02 19:44:02.088 [main] ERROR Main - DateException: incorrect date
+2018-12-02 19:44:27.233 [main] ERROR Main - UnsignedException: number cant be negative
